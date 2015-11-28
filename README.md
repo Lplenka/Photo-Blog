@@ -1,2 +1,1 @@
-# My-Webpages
-Contains the webpage projects
+# Photo Blog
