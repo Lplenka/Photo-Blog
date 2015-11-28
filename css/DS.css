@@ -1,0 +1,166 @@
+body{
+
+  background-color: #fff;
+}
+.nav
+{
+
+background-color: rgba(255,255,255,0.85);
+height: 50px;
+ position: fixed;
+ z-index: 10;
+ width: 100%;
+ display: block;
+
+
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color :#ffffff;
+    color: blue;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.24);
+}
+
+.nav li:hover {
+    background-color: #ffffff;
+    color: transparent;
+padding-right:25px;
+background-image: #fff;
+background-repeat: no-repeat;
+
+text-color:black;
+}
+
+
+
+.neighborhood-guides
+{
+    page-break-after: always;
+
+ border-bottom :1px solid #dbdbdb;
+
+    }
+    .neighborhood-guides h2
+    {
+      color :#393c3d;
+ font-size:48px;
+ text-align: center;
+
+
+   font-family: 'Shift', sans-serif;
+  font-weight: bold;
+
+        }
+
+     .neighborhood-guides p
+    {
+ font-size:15px;
+ margin-bottom:13px;
+ text-align: center;
+
+
+        }
+
+
+
+
+
+
+
+   .jumbotron {
+  background-image:url("../images/jumbotron.jpg");
+  max-width: 100%;
+  height:500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+  align:left;
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:250px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+
+}
+#Nature
+{
+	margin-top: -30px;
+}
+
+.footer{
+
+  display: block;
+padding-bottom: 20px;}
+
+.footer p
+
+{font-family: 'Shift', sans-serif;
+  font-weight: bold;
+font-size: 30px;
+color: black;}
+
+
+.footer li {
+
+background-color: #fff;
+  margin-top: 10px;
+
+  clear:both;
+  padding: 10px;
+  display: inline;
+
+}
+.footer li:hover{
+  box-shadow: 0 3px 5px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.24);
+}
+
+.neighborhood-guides img:hover  {
+
+background-color: rgba(255,255,255,0.9);
+box-shadow: 2px 7px 12px rgba(0,0,0,0.12), 2px 7px 12px rgba(0,0,0,0.24);
+}
+
+
+#Nature{ background-color:#fff;}
+#Wildlife{ background-color:#64b5f6;}
+#Emotions{ background-color: #fff;}
+#Nature{ background-color: #fff;}
+#Perception{background-color: #009688;}
+#Tips{background-color: #fff;}
+
+
+
+#back{
+  float: right;
+
+margin: 10px 10px 10px 10px;
+
+}
+.button{
+border-radius: 10px;}
