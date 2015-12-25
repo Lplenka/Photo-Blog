@@ -13,6 +13,7 @@ height: 50px;
  display: block;
 
 
+
 }
 
 .nav a {
@@ -21,6 +22,7 @@ height: 50px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+    text-decoration: none;
 }
 
 .nav li {
@@ -31,6 +33,7 @@ height: 50px;
     background-color :#ffffff;
     color: blue;
     box-shadow: 0 3px 5px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.24);
+    text-decoration: none;
 }
 
 .nav li:hover {
