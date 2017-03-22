@@ -1,3 +1,2 @@
 
-# Aditya359.github.io
-Contains a photo blog webpage
+# Contains a photo blog webpage
